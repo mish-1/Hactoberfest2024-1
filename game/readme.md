@@ -6,14 +6,14 @@ The Word Guessing Game (similar to Hangman) gives you a random word to guess. Yo
 1.The computer selects a random word from a list.
 2.The player guesses one letter at a time.
 3.The game shows how many guesses remain.
-4.If the word is guessed correctly, the player wins. If the player runs out of attempts, the word is revealed.
+4.If the word is guessed correctly, the player wins. If the player runs out of attempts, the word is revealed.)
 
 
 ## How to Play:
 
 1.Run the word_guessing_game.py script.
-2.You will see the word as a series of underscores (e.g., _ _ _ _ _).
-3.Guess one letter at a time by typing it in.
+2.You will see the word as a series of underscores (e.g., _ _ _ _ _ ).
+3.Guess one letter at a time by typing it in.( eg: if you typed 'w' if it is there in the word the '_' where that letter is will be replaced by 'w' shown as 'w _ _ _ _ '(if the word is 'w a t e r') if the typed letter is not in word you will get chwnce for another attempt ) 
 4.You have 6 attempts to guess the entire word.
 
 
